@@ -1,3 +1,5 @@
+Note: data has not been made available due to company policy.
+
 <h2>Graphing battery change during trips</h2>
 
 Using: 
@@ -29,6 +31,9 @@ Observe the point at which drivers decide to charge their cars. Car 6 often uses
 ![Graph5](./images/slide9_car8.png)
 
 <h2>Battery percentage increase after every charge</h2>
+
+Using: [battChargeBins.py](battChargeBins.py)
+
 In the first graph, I noticed there were a lot of charges in the <10% bin. Looking into the data, there were a lot of charges recorded to have a battery change of 0% or 1%, which are clear errors.
 
 ![Bins1](./images/bins_withUnder3.png)
