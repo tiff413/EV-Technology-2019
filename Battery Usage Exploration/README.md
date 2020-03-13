@@ -1,2 +1,1 @@
-![Graph1](/images/slide4 car6.png)
-Format: ![Alt Text](url)
+![Graph1](/images/slide4_car6.png)
