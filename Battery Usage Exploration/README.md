@@ -1,7 +1,7 @@
 <h2>Graphing battery change during trips</h2>
-Using [battPerTripVer2.py](battPerTripVer2.py)
+Using [battAllTrips.py](battAllTrips.py)
 
-![Graph1](./images/slide4_car6.png)
+![Graph1](./images/slide4_car6_annotation.png)
 
 ![Graph2](./images/slide5_car3.png)
 
