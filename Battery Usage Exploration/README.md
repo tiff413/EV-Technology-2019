@@ -1,4 +1,4 @@
-Note: data has not been made available due to company policy.
+Note: the data used in this project has not been made available due to company policy.
 
 <h2>Graphing battery change during trips</h2>
 
