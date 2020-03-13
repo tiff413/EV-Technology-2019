@@ -1,12 +1,8 @@
 <h2>Graphing battery change during trips</h2>
 
-Using: functions from 
-
-[masterDFs.py](masterDFs.py)
-
-and plot 2 in
-
-[battAllTrips.py](battAllTrips.py)
+Using: 
+* Functions and processed dataframes from [DFsMaster.py](DFsMaster.py)
+* Plot 2 in [battAllTrips.py](battAllTrips.py)
 
 Each line is a trip. 
 
@@ -20,13 +16,9 @@ Here we see the importance of EV Technology's app and predictive analysis using 
 
 <h2>Graphing battery change per car</h2>
 
-Using: functions from 
-
-[masterDFs.py](masterDFs.py)
-
-and plot 3 in
-
-[battAllTrips.py](battAllTrips.py)
+Using: 
+* Functions and processed dataframes from [DFsMaster.py](DFsMaster.py)
+* Plot 3 in [battAllTrips.py](battAllTrips.py)
 
 For these graphs, the start and end times of trips have been removed as I found that the start time often automatically chosen way before a trip is actually underway. Similarly for end times, they are often recorded much after a trip has finished. 
 
