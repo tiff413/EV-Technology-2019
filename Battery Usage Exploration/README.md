@@ -1,8 +1,12 @@
 <h2>Graphing battery change during trips</h2>
-Using:
 
-[Functions from masterDFs.py](masterDFs.py)
-[Plot 2 in battAllTrips.py](battAllTrips.py)
+Using: functions from 
+
+[masterDFs.py](masterDFs.py)
+
+and plot 2 in
+
+[battAllTrips.py](battAllTrips.py)
 
 ![Graph1](./images/slide4_car6_annotation.png)
 
