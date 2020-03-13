@@ -8,7 +8,9 @@ and plot 2 in
 
 [battAllTrips.py](battAllTrips.py)
 
-Each line is a trip. Here we see the importance of EV Technology's app and predictive analysis using telematics data, as the change in battery gets harder to predict for trips with longer durations. Fleet managers would find it difficult to plan for trips if they only knew the duration (and possibly mileage although not included in this graph); for long trips, there is lots of uncertainty about how much battery is needed.
+Each line is a trip. 
+
+Here we see the importance of EV Technology's app and predictive analysis using telematics data, as the change in battery gets harder to predict for trips with longer durations. Fleet managers would find it difficult to plan for trips if they only knew the duration (and possibly mileage although not included in this graph); for long trips, there is lots of uncertainty about how much battery is needed.
 
 ![Graph1](./images/slide4_car6_annotation.png)
 
