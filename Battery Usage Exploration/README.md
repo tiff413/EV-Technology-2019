@@ -22,6 +22,8 @@ Using:
 * Functions and processed dataframes from [DFsMaster.py](DFsMaster.py)
 * Plot 3 in [battAllTrips.py](battAllTrips.py)
 
+Each red cross is the start/end of a trip. The vertical lines indicate that the car has been charged.
+
 For these graphs, the start and end times of trips have been removed as I found that the start time often automatically chosen way before a trip is actually underway. Similarly for end times, they are often recorded much after a trip has finished. 
 
 Observe the point at which drivers decide to charge their cars. Car 6 often uses the battery until it us below 40% and eventually so does car 8. Many drivers feel the need to charge once battery drops below 60%. If drivers learn to use their battery to the fullest before charging, they can get in more miles with less charging stops. This demonstrates the importance of driver education.
