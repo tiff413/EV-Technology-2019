@@ -16,6 +16,16 @@ and plot 2 in
 
 <h2>Graphing battery change per car</h2>
 
+Using: functions from 
+
+[masterDFs.py](masterDFs.py)
+
+and plot 3 in
+
+[battAllTrips.py](battAllTrips.py)
+
+For these graphs, the start and end times of trips have been removed as I found that the start time often automatically chosen way before a trip is actually underway. Similarly for end times, they are often recorded much after a trip has finished. 
+
 ![Graph4](./images/slide8_car6.png)
 
 ![Graph5](./images/slide9_car8.png)
